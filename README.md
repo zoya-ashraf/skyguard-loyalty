@@ -36,18 +36,6 @@ Loyalty points are real money. They buy flights, upgrades and gift cards, so the
 
 ---
 
-## 📸 Screenshots
-
-| Login with SMS code | Face-unlock step-up |
-|---|---|
-| ![Login](docs/screenshots/login.png) | ![Face unlock](docs/screenshots/face-unlock.png) |
-
-**Dashboard with the demo phone showing the SMS alerts**
-
-![Dashboard](docs/screenshots/dashboard.png)
-
----
-
 ## ✨ Features
 
 | | Feature | Details |
@@ -191,9 +179,6 @@ skyguard-loyalty/
 │   ├── schema.sql                     Tables
 │   └── data.sql                       Demo member
 ├── src/test/java/.../RulesServiceTest.java
-├── docs/screenshots/
-├── LICENSE
-└── README.md
 ```
 
 <details>
